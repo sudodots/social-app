@@ -1,2 +1,1 @@
-# social-app
-A social app with python and html .
+Link to the template files: https://github.com/tomitokko/django-social-media-template
